@@ -1,1 +1,2 @@
-# Tic-Tac-Toe written in Java and Python with graphic interface
+# Tic-Tac-Toe
+Written in Java and Python with graphic interface
